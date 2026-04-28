@@ -30,7 +30,7 @@ const projects = [
       "A responsive platform for ordering coffee products with a clean UI.",
     tech: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/Bk-webDev/html-css-projects/tree/main/coffee",
-    demo: "https://bk-webdev.github.io/coffee",
+    demo: " https://bk-webdev.github.io/html-css-projects/",
   },
   {
     image: "image/barberoroj.png",
